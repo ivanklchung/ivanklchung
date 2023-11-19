@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ivan
+### Hi there 👋 I'm Ivan Chung
 
 <!--
 **ivanklchung/ivanklchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
